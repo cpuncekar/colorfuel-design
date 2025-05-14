@@ -30,7 +30,7 @@ I wanted to create something helpful and give fellow designers a quick reference
 
 
 ### Sneak Peek
-![Homepage](./assets/color-fuel-your-design.jpg)
+![Homepage](./assets/03-color-fuel-your-design.jpg)
 
 ---
 
