@@ -28,6 +28,10 @@ Full disclosure: I’m not a React developer — but I did go in and manually cl
 ### Why I Made It
 I wanted to create something helpful and give fellow designers a quick reference resource for color inspiration.
 
+
+## 📸 Sneak Peek
+![Homepage](./assets/color-fuel-your-design.jpg)
+
 ---
 
 Made by [@cpuncekar](https://github.com/cpuncekar)
