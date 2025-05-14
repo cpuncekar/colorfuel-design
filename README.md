@@ -29,7 +29,7 @@ Full disclosure: I’m not a React developer — but I did go in and manually cl
 I wanted to create something helpful and give fellow designers a quick reference resource for color inspiration.
 
 
-## 📸 Sneak Peek
+### Sneak Peek
 ![Homepage](./assets/color-fuel-your-design.jpg)
 
 ---
