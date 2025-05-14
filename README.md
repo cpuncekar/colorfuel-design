@@ -16,7 +16,7 @@ Full disclosure: I’m not a React developer — but I did go in and manually cl
 - Smooth scrolling navigation
 - Sticky header with working logo click-to-top
 - Mobile responsive
-- Custom favicon (because details matter)
+- Custom favicon
 
 ### Built With
 - **ChatGPT / Photopea** – early idea/visual brainstorm
